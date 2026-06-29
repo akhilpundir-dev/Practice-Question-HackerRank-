@@ -1,3 +1,4 @@
+# Student average marks
 import random 
 
 student_marks = {
