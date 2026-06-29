@@ -8,8 +8,6 @@ def random_score(n):
 
 random_score(5)
 
-
-
 arr.sort()
 max_score = arr[-1]
 print(arr)
